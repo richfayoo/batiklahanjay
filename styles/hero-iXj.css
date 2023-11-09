@@ -1,0 +1,952 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.hero-6ch {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.hero-6ch .auto-group-puah-QtH {
+  margin-bottom: 0.3rem;
+  width: 100%;
+  height: 992.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .heroo-KkM {
+  width: 151.2rem;
+  height: 98.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #742d2d;
+  border-radius: 0.6rem;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq {
+  width: 151.4rem;
+  height: 861.3rem;
+  position: absolute;
+  left: 0;
+  top: 98.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .whatsapp-image-2023-11-06-at-2123-1-xoK {
+  width: 151.2rem;
+  height: 208.825rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 {
+  width: 100%;
+  height: 652.475rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .whatsapp-image-2023-11-06-at-2123-3-pKj {
+  width: 151.2rem;
+  height: 221.8938rem;
+  position: absolute;
+  left: 0;
+  top: 430.5812rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .whatsapp-image-2023-11-06-at-2123-1-LYy {
+  width: 151.2rem;
+  height: 221.8938rem;
+  position: absolute;
+  left: 0;
+  top: 208.5499rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .whatsapp-image-2023-11-06-at-2123-2-rXK {
+  width: 151.2rem;
+  height: 208.825rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs {
+  width: 135.9rem;
+  height: 64.5rem;
+  position: absolute;
+  left: 10rem;
+  top: 562.975rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .penggunaan-batik-sebagai-pelengkap-interior-JeD {
+  margin-bottom: 0.3rem;
+  max-width: 65.7rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo {
+  margin-right: 5.7rem;
+  width: calc(100% - 5.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo .swipper-L57 {
+  margin: 0rem 7.5rem 14.8rem 0rem;
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo .swipper-L57 .ellipse-8-qnZ {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo .swipper-L57 .ellipse-7-Apq {
+  width: 27.3rem;
+  height: 34.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo .swipper-L57 .ellipse-9-iLZ {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .interior-nfs .auto-group-vcbj-CDo .penggunaan-batik-sebagai-pelengkap-interior-adalah-penggunaan-motif-dan-produk-batik-dalam-desain-dan-dekorasi-interior-rumah-atau-ruang-komersial-termasuk-penggunaan-kain-batik-pada-furnitur-hiasan-dinding-gorden-dan-aksesori-lainnya-untuk-menciptakan-atmosfer-artistik-dan-budaya-G7B {
+  max-width: 60rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y {
+  width: 128.1rem;
+  height: 76.8rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 455.275rem;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .penggunaan-batik-sebagai-fashion-bYm {
+  margin-bottom: 1.6rem;
+  max-width: 44.4rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs {
+  width: 100%;
+  height: 60.5rem;
+  display: flex;
+  align-items: center;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs .penggunaan-batik-sebagai-fashion-adalah-penggunaan-motif-dan-teknik-batik-dalam-desain-dan-produksi-pakaian-serta-aksesori-mode-untuk-menciptakan-gaya-pribadi-dan-tren-fashion-penggunaan-batik-sebagai-fashion-menggabungkan-unsur-seni-kreativitas-dan-gaya-pribadi-dengan-nilai-nilai-budaya-yang-terkandung-dalam-batik-menciptakan-produk-mode-yang-unik-dan-beragam-fYd {
+  margin-right: 10.4rem;
+  max-width: 55rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs .swipper-evM {
+  margin: 8.7rem 0rem 17.1rem 0rem;
+  height: calc(100% - 25.8rem);
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs .swipper-evM .ellipse-8-aJD {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs .swipper-evM .ellipse-7-vN5 {
+  width: 27.3rem;
+  height: 34.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .fashion-s6y .auto-group-qrkp-KDs .swipper-evM .ellipse-9-fqT {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ {
+  width: 128.2rem;
+  height: 53.6rem;
+  position: absolute;
+  left: 10.4rem;
+  top: 381.975rem;
+  display: flex;
+  align-items: center;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .swipper-Xsf {
+  margin: 7.3rem 13.1rem 11.6rem 0rem;
+  height: calc(100% - 18.9rem);
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .swipper-Xsf .ellipse-8-3LD {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .swipper-Xsf .ellipse-7-PQ5 {
+  width: 27.3rem;
+  height: 34.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .swipper-Xsf .ellipse-9-98M {
+  width: 14.2rem;
+  height: 19.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .auto-group-rtg5-VT7 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .auto-group-rtg5-VT7 .penggunaan-batik-sebagai-artefak-3Ud {
+  margin-bottom: 0.4rem;
+  max-width: 44.4rem;
+  font-size: 5.5rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .artefak-pCZ .auto-group-rtg5-VT7 .penggunaan-batik-sebagai-artefak-berarti-melihat-batik-sebagai-objek-fisik-atau-barang-yang-memiliki-nilai-budaya-seni-atau-sejarah-yang-dapat-dipelajari-atau-dipamerkan-dan-mewakili-identitas-budaya-indonesia-xrV {
+  margin-left: 0.3rem;
+  max-width: 52.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .penggunaan-batik-1Zs {
+  width: 81.7rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 34.75rem;
+  top: 358.075rem;
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH {
+  width: 133.3rem;
+  height: 93.3rem;
+  position: absolute;
+  left: 9rem;
+  top: 241.775rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .ragam-motif-batik-ecq {
+  margin: 0rem 0.1rem 9.9rem 0rem;
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-6pkq-Mn9 {
+  width: 100%;
+  display: flex;
+  column-gap: 6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-6pkq-Mn9 .rectangle-6-uof {
+  width: 45rem;
+  height: 42.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-6pkq-Mn9 .rectangle-7-GPK {
+  width: 45rem;
+  height: 42.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-6pkq-Mn9 .rectangle-8-p9w {
+  width: 31.3rem;
+  height: 42.1rem;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 0rem 8.9rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-vyrw-UkH {
+  margin: 0rem 5.7rem 6.9rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-vyrw-UkH .motif-batik-asal-cbb {
+  margin-right: 34.9rem;
+  max-width: 19.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-vyrw-UkH .motif-batik-asal-XCm {
+  margin-right: 24.4rem;
+  max-width: 19.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-vyrw-UkH .motif-batik-asal-dmb {
+  max-width: 19.8rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-jgcq-AmX {
+  margin-left: 103.3rem;
+  width: calc(100% - 103.3rem);
+  height: 8.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-jgcq-AmX .auto-group-kbv1-uUD {
+  margin-right: 4.5rem;
+  width: 8.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-YED.png');
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .wallpapper-eGq .auto-group-uinm-5N9 .ragam-iUH .auto-group-hhh3-m5B .auto-group-jgcq-AmX .auto-group-sxkz-PPP {
+  width: 8.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-5.png');
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .vector-2-4VX {
+  width: 151.4rem;
+  height: 182.3rem;
+  position: absolute;
+  left: 0;
+  top: 240rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .ini-apa-ze5 {
+  width: 117.2923rem;
+  height: 108.7rem;
+  position: absolute;
+  left: 72.7538rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .ini-apa-jbf {
+  width: 89.3987rem;
+  height: 88.4484rem;
+  position: absolute;
+  left: 106.5rem;
+  top: 171.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .ini-apa-g17 {
+  width: 89.4834rem;
+  height: 88.5342rem;
+  position: absolute;
+  left: 0;
+  top: 473.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb {
+  width: 133.3rem;
+  height: 98.5rem;
+  position: absolute;
+  left: 9rem;
+  top: 430rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4.4rem;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .teknik-pembuatan-batik-iyP {
+  margin: 0rem 0.1rem 6.6rem 0rem;
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .auto-group-xgad-EB3 {
+  width: 100%;
+  height: 78.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .auto-group-xgad-EB3 .auto-group-vrcd-yeR {
+  margin-right: 3.9rem;
+  box-sizing: border-box;
+  padding: 5rem 3.8rem 5rem 3.7rem;
+  width: 64.7rem;
+  height: 100%;
+  background-color: #e7b385;
+  border-radius: 4.4rem;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .auto-group-xgad-EB3 .auto-group-vrcd-yeR .card-teknik-hKX {
+  width: 100%;
+  height: 57.8rem;
+  background-color: #141111;
+  border-radius: 4.4rem;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .auto-group-xgad-EB3 .auto-group-vyjx-cxH {
+  box-sizing: border-box;
+  padding: 5rem 3.8rem 5rem 3.7rem;
+  width: 64.7rem;
+  height: 100%;
+  background-color: #e7b385;
+  border-radius: 4.4rem;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .teknik-zXb .auto-group-xgad-EB3 .auto-group-vyjx-cxH .card-teknik-Mey {
+  width: 100%;
+  height: 57.8rem;
+  background-color: #141111;
+  border-radius: 4.4rem;
+}
+.hero-6ch .auto-group-puah-QtH .filosofis-rrd {
+  width: 135.4rem;
+  height: 59.1rem;
+  position: absolute;
+  left: 7.8rem;
+  top: 343.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.hero-6ch .auto-group-puah-QtH .filosofis-rrd .auto-group-2e9f-zhw {
+  margin: 1.9rem 6.5rem 0rem 0rem;
+  width: 89.6rem;
+  height: 57.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .filosofis-rrd .auto-group-2e9f-zhw .filosofis-batik-indonesia-mencakup-gagasan-gagasan-tentang-harmoni-dengan-alam-pesan-moral-keseimbangan-penghargaan-terhadap-warisan-budaya-dan-kreativitas-batik-mencerminkan-kebijaksanaan-kesederhanaan-dan-nilai-nilai-budaya-yang-diwariskan-dari-generasi-ke-generasi-menjadikannya-sarana-penting-untuk-menyampaikan-pesan-filosofis-dan-nilai-nilai-budaya-masyarakat-indonesia-j9j {
+  width: 88rem;
+  height: 44rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 13.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .filosofis-rrd .auto-group-2e9f-zhw .filosofis-batik-V2R {
+  width: 64.2rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: right;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .filosofis-rrd .rectangle-4-PNh {
+  width: 39.3rem;
+  height: 56.9rem;
+  background-color: #e9b384;
+  border-radius: 19.65rem 0 19.65rem 0;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .makna-urq {
+  width: 128.7rem;
+  height: 56.9rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 268.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.hero-6ch .auto-group-puah-QtH .makna-urq .rectangle-4-T7f {
+  margin-right: 6.5rem;
+  width: 39.3rem;
+  height: 56.9rem;
+  background-color: #e9b384;
+  border-radius: 19.65rem 0 19.65rem 0;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .makna-urq .auto-group-zwjy-BZT {
+  width: 82.9rem;
+  height: 51.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .makna-urq .auto-group-zwjy-BZT .batik-indonesia-adalah-simbol-kompleks-yang-mencerminkan-identitas-budaya-sejarah-dan-filosofi-masyarakat-ini-menggambarkan-nilai-nilai-budaya-simbolisme-keagamaan-dan-pesan-moral-memainkan-peran-penting-dalam-mempertahankan-warisan-budaya-indonesia-sambil-terus-berkembang-dengan-kreativitas-dan-berfungsi-sebagai-simbol-identitas-nasional-LBT {
+  width: 82.9rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 0;
+  top: 13.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .makna-urq .auto-group-zwjy-BZT .makna-batik-K3P {
+  width: 56.7rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb {
+  width: 131.9rem;
+  height: 56.9rem;
+  position: absolute;
+  left: 11.3rem;
+  top: 185rem;
+  display: flex;
+  align-items: center;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu {
+  margin: 6rem 4.2rem 8.4rem 0rem;
+  width: 88.4rem;
+  height: calc(100% - 14.4rem);
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-ym7o-VMB {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 35.3rem;
+  position: relative;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-ym7o-VMB .sejarah-batik-indonesia-yang-kaya-dan-berakar-dalam-budaya-indonesia-dimulai-pada-zaman-hindu-buddha-abad-ke-4-hingga-abad-ke-15-m-dan-berkembang-selama-zaman-majapahit-hingga-zaman-islam-qfw {
+  width: 88.3rem;
+  height: 22rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 13.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-ym7o-VMB .sejarah-batik-qJZ {
+  width: 60rem;
+  height: 13.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 10rem;
+  font-weight: 500;
+  line-height: 1.3325;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-b6r5-7ms {
+  margin: 0rem 67.4rem 0rem 0.1rem;
+  width: calc(100% - 67.5rem);
+  display: flex;
+  align-items: center;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-b6r5-7ms .read-more-D4D {
+  margin-right: 1.2rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.515625;
+  color: #429c88;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .auto-group-zory-AJu .auto-group-b6r5-7ms .auto-group-xf8v-7QV {
+  margin-bottom: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .sejarah-2Tb .rectangle-4-RAH {
+  width: 39.3rem;
+  height: 56.9rem;
+  background-color: #e9b384;
+  border-radius: 16.25rem 0 16.25rem 0;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .rectangle-4-weR {
+  width: 29.2rem;
+  height: 53.4rem;
+  position: absolute;
+  left: 15rem;
+  top: 16.6rem;
+  background-color: #d9d9d9;
+  border-radius: 15rem;
+}
+.hero-6ch .auto-group-puah-QtH .rectangle-5-Gwb {
+  width: 29.2rem;
+  height: 53.4rem;
+  position: absolute;
+  left: 107rem;
+  top: 39.4rem;
+  background-color: #e9b384;
+  border-radius: 15rem;
+}
+.hero-6ch .auto-group-puah-QtH .empower-indonesia-culture-everywhere-NdF {
+  width: 115.5rem;
+  height: 28.8rem;
+  position: absolute;
+  left: 17.85rem;
+  top: 25rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .empower-indonesia-culture-everywhere-NdF .empower-indonesia-culture-everywhere-NdF-sub-0 {
+  font-size: 12.8rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #2c3333;
+  font-family: Imprima, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .empower-indonesia-culture-everywhere-NdF .empower-indonesia-culture-everywhere-NdF-sub-1 {
+  font-size: 12.8rem;
+  font-weight: 500;
+  line-height: 1.125;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .empower-indonesia-culture-everywhere-NdF .empower-indonesia-culture-everywhere-NdF-sub-2 {
+  font-size: 12.8rem;
+  font-weight: 500;
+  line-height: 1.125;
+  font-style: italic;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .empower-indonesia-culture-everywhere-NdF .empower-indonesia-culture-everywhere-NdF-sub-3 {
+}
+.hero-6ch .auto-group-puah-QtH .text-hero-A5F {
+  width: 82.1rem;
+  height: 13.1rem;
+  position: absolute;
+  left: 34.55rem;
+  top: 58.8rem;
+  text-align: center;
+  font-size: 2.9rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #2c3333;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .button-hero-fXo {
+  width: 35.3rem;
+  height: 7.4rem;
+  position: absolute;
+  left: 58rem;
+  top: 77.6rem;
+  background-color: #f9b572;
+  border-radius: 4.8rem;
+}
+.hero-6ch .auto-group-puah-QtH .start-the-journey-bgM {
+  width: 29.1rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 61.05rem;
+  top: 79.8rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #000000;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .navbar-Jam {
+  box-sizing: border-box;
+  padding: 2.2rem 6.75rem 1.6rem 7.9rem;
+  width: 92rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 29.6rem;
+  top: 7.3rem;
+  display: flex;
+  align-items: center;
+  background-color: #f9b572;
+  border-radius: 4.8rem;
+}
+.hero-6ch .auto-group-puah-QtH .navbar-Jam .teknik-pembuatan-nkq {
+  margin-right: 10.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .navbar-Jam .ragam-motif-i8h {
+  margin-right: 10.25rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .navbar-Jam .penggunaan-batik-qj7 {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #ffffff;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-6ch .auto-group-puah-QtH .logo-Lvm {
+  width: 27.1rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 7rem;
+  border-radius: 4.8rem;
+}
+.hero-6ch .auto-group-puah-QtH .logo-Lvm .logo-thP {
+  width: 9.4rem;
+  height: 8rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  background-color: #d0e4f0;
+  border-radius: 4.8rem;
+}
+.hero-6ch .auto-group-puah-QtH .logo-Lvm .logo-RBX {
+  width: 6.3rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 2.1rem;
+  text-align: center;
+  font-size: 2.9rem;
+  font-weight: 700;
+  line-height: 1.175;
+  color: #2c3333;
+  font-family: Raleway, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-6ch .auto-group-puah-QtH .batik-cicrle-ve5 {
+  width: 12.7rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 69.3rem;
+  top: 92.3rem;
+}
+.hero-6ch .auto-group-puah-QtH .batik-cicrle-ve5 .mask-group-s3X {
+  width: 100%;
+  height: 100%;
+}
+.hero-6ch .auto-group-puah-QtH .circle-hero-Rqj {
+  width: 12.7rem;
+  height: 12.7rem;
+  position: absolute;
+  left: 69rem;
+  top: 92.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.hero-6ch .auto-group-puah-QtH .definisi-kt1 {
+  width: 98.5rem;
+  height: 59.5rem;
+  position: absolute;
+  left: 26.35rem;
+  top: 113.1rem;
+}
+.hero-6ch .auto-group-puah-QtH .definisi-kt1 .seni-tekstil-tradisional-indonesia-yang-khas-di-mana-kain-biasanya-katun-atau-sutra-dihias-dengan-pola-pola-dan-gambar-gambar-yang-dihasilkan-dengan-mengaplikasikan-malam-lilin-pada-kain-sehingga-menghalangi-pewarnaan-pada-area-yang-diinginkan-ini-adalah-seni-yang-sangat-terkenal-dan-diakui-secara-internasional-dan-merupakan-bagian-penting-dari-budaya-indonesia-6gy {
+  width: 98.5rem;
+  height: 38.5rem;
+  position: absolute;
+  left: 0;
+  top: 21rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.71875;
+  letter-spacing: 0.032rem;
+  color: #2c3333;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .definisi-kt1 .batik-Tfw {
+  width: 26.1rem;
+  height: 21.4rem;
+  position: absolute;
+  left: 36.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 9.5rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.hero-6ch .auto-group-puah-QtH .definisi-kt1 .batik-Tfw .batik-Tfw-sub-0 {
+  font-size: 16rem;
+  font-weight: 400;
+  line-height: 1.3325;
+  color: #2c3333;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
+.hero-6ch .auto-group-puah-QtH .definisi-kt1 .batik-Tfw .batik-Tfw-sub-1 {
+}
+.hero-6ch .rectangle-9-FLu {
+  margin-right: 0.2rem;
+  width: 151rem;
+  height: 37rem;
+  background-color: #9cc2b5;
+  flex-shrink: 0;
+}
